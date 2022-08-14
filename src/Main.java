@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Оплата со сберегательного счета: " + savingsAccount.pay(100));
         System.out.println("Пополнение со сберегательного счета: " + savingsAccount.add(750));
         System.out.println("*************************");
-        System.out.println("MoneyTargetCheck: " + creditAccount.accept(48753));
+        System.out.println("MoneyTargetCheck: " + creditAccount.accept(500));
         System.out.println("*************************");
     }
 }

@@ -32,4 +32,5 @@ public abstract class Account implements MoneyTarget {
             return false;
         }
     }
+
 }
